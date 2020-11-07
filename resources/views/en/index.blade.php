@@ -1,4 +1,15 @@
 <x-en-master>
+
+    <!-- preloader area start -->
+    <div class="preloader" id="preloader">
+        <div class="preloader-inner">
+            <div class="spinner">
+                <div class="dot1"></div>
+                <div class="dot2"></div>
+            </div>
+        </div>
+    </div>
+    <!-- preloader area end -->
     <!-- banner start -->
     <div class="banner-area banner-style-one" style="background-image:url({{ asset('img/bg/1.png);') }}">
 
