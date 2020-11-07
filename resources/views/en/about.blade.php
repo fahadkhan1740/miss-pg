@@ -2,7 +2,7 @@
 
     <!-- breadcrumb area -->
     <div class="breadcrumb-style-1 about-breadcrumb-overlay"
-         style="background-image:url(/assets/build/img/bg/about.png);">
+         style="background-image:url(/img/bg/about.png);">
         <div class="breadcrumb-inner">
             <h1 class="page-title">About Us</h1>
             <ul class="page-list">
@@ -41,7 +41,7 @@
                 <div class="col-lg-6 col-xl-6">
                     <div class="about-left">
                         <div class="thumb">
-                            <img src="/assets/build/img/bg/about-right.png" alt="About">
+                            <img src="{{ asset('img/bg/about-right') }}.png" alt="About">
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                                 <div class="project-counter__box">
                                     <div class="project-counter__box-content">
                                         <div class="icon">
-                                            <img src="/assets/build/img/counterup/1.png" alt="counter img">
+                                            <img src="{{ asset('img/counterup/1.png') }}" alt="counter img">
                                         </div>
                                         <span class="project-counter__is">1250</span>
                                         <span class="project-counter__text">all equipments</span>
@@ -72,7 +72,7 @@
                                 <div class="project-counter__box">
                                     <div class="project-counter__box-content">
                                         <div class="icon">
-                                            <img src="/assets/build/img/counterup/2.png" alt="counter img">
+                                            <img src="{{ asset('img/counterup/2.png') }}" alt="counter img">
                                         </div>
                                         <span class="project-counter__is">200</span>
                                         <span class="project-counter__text">Trainers</span>
@@ -83,7 +83,7 @@
                                 <div class="project-counter__box">
                                     <div class="project-counter__box-content">
                                         <div class="icon">
-                                            <img src="/assets/build/img/counterup/3.png" alt="counter img">
+                                            <img src="{{ asset('img/counterup/3.png') }}" alt="counter img">
                                         </div>
                                         <span class="project-counter__is">2500</span>
                                         <span class="project-counter__text">All Trainee</span>
@@ -94,7 +94,7 @@
                                 <div class="project-counter__box">
                                     <div class="project-counter__box-content">
                                         <div class="icon">
-                                            <img src="/assets/build/img/counterup/4.png" alt="counter img">
+                                            <img src="{{ asset('img/counterup/4.png') }}" alt="counter img">
                                         </div>
                                         <span class="project-counter__is">8</span>
                                         <span class="project-counter__text">World Challange</span>
@@ -105,7 +105,7 @@
                                 <div class="project-counter__box">
                                     <div class="project-counter__box-content">
                                         <div class="icon">
-                                            <img src="/assets/build/img/counterup/5.png" alt="counter img">
+                                            <img src="{{ asset('img/counterup/5.png') }}" alt="counter img">
                                         </div>
                                         <span class="project-counter__is">12</span>
                                         <span class="project-counter__text">Our Branch</span>
@@ -137,7 +137,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="/assets/build/img/home/trainer/1.png" alt="trainer">
+                                <img src="{{ asset('img/home/trainer/1') }}.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -178,7 +178,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="/assets/build/img/home/trainer/3.png" alt="trainer">
+                                <img src="{{ asset('img/home/trainer/3') }}.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -221,7 +221,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="/assets/build/img/home/trainer/2.png" alt="trainer">
+                                <img src="{{ asset('img/home/trainer/2') }}.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -262,7 +262,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="/assets/build/img/home/trainer/4.png" alt="trainer">
+                                <img src="{{ asset('img/home/trainer/4') }}.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -305,7 +305,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="/assets/build/img/home/trainer/2.png" alt="trainer">
+                                <img src="{{ asset('img/home/trainer/2') }}.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -346,7 +346,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="/assets/build/img/home/trainer/4.png" alt="trainer">
+                                <img src="{{ asset('img/home/trainer/4') }}.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -389,7 +389,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="/assets/build/img/home/trainer/2.png" alt="trainer">
+                                <img src="{{ asset('img/home/trainer/2') }}.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -430,7 +430,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="/assets/build/img/home/trainer/4.png" alt="trainer">
+                                <img src="{{ asset('img/home/trainer/4') }}.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -542,34 +542,34 @@
                 <div class="col-lg-12">
                     <div class="brand-slider">
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand1.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand1.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand2.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand2.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand3.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand3.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand4.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand4.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand5.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand5.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand1.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand1.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand2.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand2.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand3.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand3.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand4.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand4.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand5.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand5.png') }}" alt="brand">
                         </div>
                     </div>
                 </div>
