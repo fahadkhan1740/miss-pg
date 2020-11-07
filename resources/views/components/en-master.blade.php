@@ -9,7 +9,38 @@
     <!-- favicon -->
     <link rel=icon href="{{ asset('img/favicon.png') }}" sizes="20x20" type="image/png">
 
-    <link rel="stylesheet" href="{{ mix('en/css/app.css') }}">
+    <!-- animate -->
+    <link rel="stylesheet" href="{{ asset('en/css/animate.css') }}">
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="{{ asset('en/css/bootstrap.min.css') }}">
+    <!-- magnific popup -->
+    <link rel="stylesheet" href="{{ asset('en/css/magnific-popup.css') }}">
+    <!-- Slick -->
+    <link rel="stylesheet" href="{{ asset('en/css/slick.css') }}">
+    <link rel="stylesheet" href="{{ asset('en/css/slick-theme.css') }}">
+    <!-- nice select -->
+    <link rel="stylesheet" href="{{ asset('en/css/nice-select.css') }}">
+    <!-- owl carousel -->
+    <link rel="stylesheet" href="{{ asset('en/css/owl.carousel.min.css') }}">
+    <!-- fontawesome -->
+    <link rel="stylesheet" href="{{ asset('en/css/font-awesome.min.css') }}">
+    <!-- flaticon -->
+    <link rel="stylesheet" href="{{ asset('en/css/flaticon.css') }}">
+    <!-- hamburgers -->
+    <link rel="stylesheet" href="{{ asset('en/css/hamburgers.min.css') }}">
+    <!-- hamburgers -->
+    <link rel="stylesheet" href="{{ asset('en/css/hamburgers.min.css') }}">
+    <!-- twentytwenty -->
+    <link rel="stylesheet" href="{{ asset('en/css/twentytwenty.css') }}">
+    <!-- Date Picker -->
+    <link href="{{ asset('en/css/datepicker.min.css') }}" rel="stylesheet" type="text/css">
+    <!-- Time Picker -->
+    <link rel="stylesheet" href="{{ asset('en/css/wickedpicker.min.css') }}">
+    <!-- Main Stylesheet -->
+{{--    <link rel="stylesheet" href="{{ asset('en/css/style.css') }}">--}}
+    <!-- responsive Stylesheet -->
+    <link rel="stylesheet" href="{{ asset('en/css/responsive.css') }}">
+
     <link rel="stylesheet" href="{{ mix('en/css/style.css') }}">
 </head>
 <body>
@@ -153,12 +184,46 @@
 </div>
 <!-- back to top area end -->
 
-<script src="{{ asset('js/jquery-2.2.4.min.js') }}"></script>
+<!-- jquery -->
+<script src="{{ asset('en/js/jquery-2.2.4.min.js') }}"></script>
+<!-- popper -->
+<script src="{{ asset('en/js/popper.min.js') }}"></script>
+<!-- bootstrap -->
+<script src="{{ asset('en/js/bootstrap.min.js') }}"></script>
+<!-- magnific popup -->
+<script src="{{ asset('en/js/jquery.magnific-popup.js') }}"></script>
+<!-- wow -->
+<script src="{{ asset('en/js/wow.min.js') }}"></script>
+<!-- nice select -->
+<script src="{{ asset('en/js/nice-select.js') }}"></script>
+<!-- owl carousel -->
+<script src="{{ asset('en/js/owl.carousel.min.js') }}"></script>
+<!-- Slick -->
+<script src="{{ asset('en/js/slick.min.js') }}"></script>
+<!-- Slick Animation -->
+<script src="{{ asset('en/js/slick-animation.js') }}"></script>
 <!-- jquery.twentytwenty -->
-<script src="{{ asset('js/jquery.twentytwenty.js') }}"></script>
-<script src="{{ asset('js/jquery.event.move.js') }}"></script>
+<script src="{{ asset('en/js/jquery.twentytwenty.js') }}"></script>
+<script src="{{ asset('en/js/jquery.event.move.js') }}"></script>
+<!-- waypoint -->
+<script src="{{ asset('en/js/waypoints.min.js') }}"></script>
+<!-- Date Picker -->
+<script src="{{ asset('en/js/datepicker.min.js') }}"></script>
+<script src="{{ asset('en/js/datepicker.en.js') }}"></script>
+<!-- Time Picker -->
+<script src="{{ asset('en/js/wickedpicker.min.js') }}"></script>
+<!-- counterup -->
+<script src="{{ asset('en/js/jquery.counterup.min.js') }}"></script>
+<!-- imageloaded -->
+<script src="{{ asset('en/js/imagesloaded.pkgd.min.js') }}"></script>
+<!-- isotope -->
+<script src="{{ asset('en/js/isotope.pkgd.min.js') }}"></script>
+<!-- rProgressbar -->
+<script src="{{ asset('en/js/jQuery.rProgressbar.min.js') }}"></script>
+<script src="{{ asset('en/js/timepicker.js') }}"></script>
+<!-- main js -->
+<script src="{{ asset('en/js/main.js') }}"></script>
 
-<script src="{{ mix('en/js/all.js') }}"></script>
 <script src="{{ mix('en/js/script.js') }}"></script>
 </body>
 </html>

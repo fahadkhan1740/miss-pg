@@ -1,4 +1,4 @@
-let $ = jQuery = require('jquery');
+;
 (function($) {
     "use strict";
 
