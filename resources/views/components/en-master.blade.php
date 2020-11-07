@@ -104,7 +104,7 @@
                                     <i class="flaticon-phone-call"></i>
                                 </div>
                                 <div class="details">
-                                    1900-45-20
+                                    +965 2292 2570
                                 </div>
                             </li>
                             <li class="single-info-item">
@@ -112,7 +112,10 @@
                                     <i class="flaticon-placeholder"></i>
                                 </div>
                                 <div class="details">
-                                    152/02 William Streat, NYE
+                                    Miss Platinum, <br>
+                                    Sabah Al Salem, Block-1, <br>
+                                    Opposite Al Jamera Beach Hotel <br>
+                                    Free parking available
                                 </div>
                             </li>
                             <li class="single-info-item">
@@ -120,7 +123,7 @@
                                     <i class="flaticon-email"></i>
                                 </div>
                                 <div class="details">
-                                    Zarxiofitness@info.com
+                                    missplatinum@alnawadiolding.com
                                 </div>
                             </li>
                         </ul>
@@ -169,7 +172,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="copyright-area-inner copyright-sm margin-top-30">
-                        © Zarxio 2019 All rights reserved. Powered with <i class="fa fa-heart"></i>  by <a href="https://codingeek.net/" target="_blank">Codingeek</a>
+                        © Miss Platinum {{ now()->year }} All rights reserved.
                     </div>
                 </div>
             </div>

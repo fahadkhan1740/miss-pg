@@ -19,23 +19,41 @@
             <div class="row">
                 <div class="col-lg-6 col-xl-6 d-flex">
                     <div class="about-content align-self-center">
-                        <h3 class="about-title">About Zarxio</h3>
-                        <p class="font-regular">Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum
-                            rutrum dignissim arcu, vitae convallis libero. Nulla interdum erat nec tincidunt laoreet. In
-                            ac consequat risus. Donec a lectus mauris. Vestibulum ante ipsum primis in faucibus orci
-                            luctus et ultrices posuere cubilia Curae; In maximus volutpat vehicula. Morbi ut dui iss.
-                            Sed eros eros, rutrum eu quam a venenatis.</p>
-                        <p>Ut pulvinar mi ac sem sagittis, ut consectetur ipsum porta. Nullam vitae tellus id ante
-                            fermentum aliquam quis at metus. Curabitur nec tincidunt purus, sed faucibus dolor. Aliquam
-                            erat volutpat.</p>
-                        <ul>
-                            <li><i class="fa fa-check"></i> Pellentesque pellentesque odio et porta accumsan.</li>
-                            <li><i class="fa fa-check"></i> Proin et augue et justo accumsan condimentum.</li>
-                            <li><i class="fa fa-check"></i> Donec viverra urna id congue fringilla.</li>
-                        </ul>
-                        <div class="btn-wrapper margin-top-50">
-                            <a href="#" class="btn">Read More...</a>
-                        </div>
+                        <h3 class="about-title">Welcome to Miss Platinum Health Club!</h3>
+
+                        <p>
+                            We are proud to be one of the most prestigious all-female Health & Fitness gym in Kuwait
+                            today, The club is equipped with the latest sports American brand ( Life fitness ) gym
+                            equipment to ensure the safety of our members. The club boasts of vast free weights,
+                            strengths and freestyle areas as well as luxurious & spacious changing rooms with sauna and
+                            bath; making it a complete health solutions haven for all ladies desiring fitness with
+                            exercise.
+                        </p>
+
+                        <p>
+                            The gym holds nine studios (yoga, dance, boxing, spinning, pool, aerobic, and squash), a
+                            power lifting area, kids club, sauna and steam room, cafe, supplement fitness store, an open
+                            area rooftop, Parking and even a salon and spa.
+                        </p>
+
+                        <p>
+                            To achieve your fitness goals, we are fully
+                            equipped with the latest and highest standard of equipment, certified
+                            instructors with creative and inventive training methods,also provide the ultimate fitness experience.
+                        </p>
+
+                        <p>
+                            Miss Platinum offers a range of classes from Zumba to Aqua Aerobics to Spinning, Boxing and  whatever you're looking for, you'll find here!
+                        </p>
+
+                        <p>
+                            We also deliver customized training packages  such as private workout classes, tailor-made  diet and exercise plans as well as InBody  measurements.
+                        </p>
+
+                        <p>
+                            Make your way to our prove list and packages and come join our family!
+                        </p>
+
                     </div>
                 </div>
                 <div class="col-lg-6 col-xl-6">
@@ -495,39 +513,37 @@
     <div class="mission-area">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                     <div class="mission-content">
                         <h3 class="serial">01</h3>
                         <div class="title">
                             <h1>Our Mission</h1>
                         </div>
                         <div class="mission-content">
-                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim
-                                arcu, vitae convallis Nulla interdum erat nec tincidunt laoreet. In</p>
+                            <p>
+                                Our mission is to deliver top quality and innovative fitness services and programs to
+                                ensure that our clients and members achieve their fitness goals and eventually improve
+                                their quality of lifestyle.
+
+                                Our dream is to be the best all-female facility in Kuwait which provides top-notch
+                                health and fitness services.
+                            </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                     <div class="mission-content">
                         <h3 class="serial">02</h3>
                         <div class="title">
                             <h1>Our Vision</h1>
                         </div>
                         <div class="mission-content">
-                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim
-                                arcu, vitae convallis Nulla interdum erat nec tincidunt laoreet. In</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="mission-content">
-                        <h3 class="serial">03</h3>
-                        <div class="title">
-                            <h1>Our Value</h1>
-                        </div>
-                        <div class="mission-content">
-                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim
-                                arcu, vitae convallis Nulla interdum erat nec tincidunt laoreet. In</p>
+                            <p>
+                                We aim to reach our goals by holding on to our current loyal members and clients and
+                                expanding in the Kuwait market and eventually in the region.
+                                Miss Platinum aim to reach their goals through our work-oriented, professional
+                                employees, prudent management, and the inspiring environment around us.
+                            </p>
                         </div>
                     </div>
                 </div>
