@@ -25,7 +25,8 @@
                         <div class="col-lg-6">
                             <div class="banner-inner-style-one">
                                 <p data-animation-in="fadeInLeft">FUEL YOUR</p>
-                                <h1 class="title1" data-animation-in="fadeInDown"> <span class="color-main">BODY</span> FITNESS</h1>
+                                <h1 class="title1" data-animation-in="fadeInDown"><span class="color-main">BODY</span>
+                                    FITNESS</h1>
                                 <div class="btn-wrapper" data-animation-in="fadeInUp">
                                     <a href="#" class="btn btn-slider">Be one of us</a>
                                 </div>
@@ -34,13 +35,14 @@
                     </div>
                 </div>
             </div>
-            <div class="banner-bg-style-one" >
+            <div class="banner-bg-style-one">
                 <div class="container">
                     <div class="row h-100vh">
                         <div class="col-lg-6">
                             <div class="banner-inner-style-one">
                                 <p data-animation-in="fadeInLeft">Improve</p>
-                                <h1 class="title1" data-animation-in="fadeInDown"> <span class="color-main">Your</span> Health</h1>
+                                <h1 class="title1" data-animation-in="fadeInDown"><span class="color-main">Your</span>
+                                    Health</h1>
                                 <div class="btn-wrapper" data-animation-in="fadeInUp">
                                     <a href="#" class="btn btn-slider">Be one of us</a>
                                 </div>
@@ -55,7 +57,8 @@
                         <div class="col-lg-6">
                             <div class="banner-inner-style-one">
                                 <p data-animation-in="fadeInLeft">Let's Change</p>
-                                <h1 class="title1" data-animation-in="fadeInDown"> <span class="color-main">Life</span> Style</h1>
+                                <h1 class="title1" data-animation-in="fadeInDown"><span class="color-main">Life</span>
+                                    Style</h1>
                                 <div class="btn-wrapper" data-animation-in="fadeInUp">
                                     <a href="#" class="btn btn-slider">Be one of us</a>
                                 </div>
@@ -70,7 +73,8 @@
                         <div class="col-lg-6">
                             <div class="banner-inner-style-one">
                                 <p data-animation-in="fadeInLeft">Start YOUR</p>
-                                <h1 class="title1" data-animation-in="fadeInDown"> <span class="color-main">Gym</span> Classes</h1>
+                                <h1 class="title1" data-animation-in="fadeInDown"><span class="color-main">Gym</span>
+                                    Classes</h1>
                                 <div class="btn-wrapper" data-animation-in="fadeInUp">
                                     <a href="#" class="btn btn-slider">Be one of us</a>
                                 </div>
@@ -89,12 +93,13 @@
                 </a>
             </li>
             <li class="icon-list">
-                <a href="https://www.facebook.com/codingeek.net/" target="_blank" class="icon-text">
+                <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/"
+                   target="_blank" class="icon-text">
                     <i class="fa fa-facebook-f"></i>
                 </a>
             </li>
             <li class="icon-list">
-                <a href="https://www.instagram.com/codingeeknet/%20" target="_blank" class="icon-text">
+                <a href="https://www.instagram.com/missplatinumkw/" target="_blank" class="icon-text">
                     <i class="fa fa-instagram"></i>
                 </a>
             </li>
@@ -173,12 +178,45 @@
                         <div class="col-lg-6 col-xl-7">
                             <div class="about-content">
                                 <span>Who we are</span>
-                                <h3 class="padding-top-3">About Us</h3>
-                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis libero. Nulla interdum erat nec tincidunt laoreet. In ac consequat risus. Donec a lectus mauris. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In maximus volutpat vehicula. Morbi ut dui iss. Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis libero. Nulla interdum erat nec tincidunt laoreet. In ac consequat risus. Donec a lectus mauris. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In maximus volutpat vehicula. Morbi ut dui iss.</p>
-                                <p class="hidden-md">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In maximus volutpat vehicula. Morbi ut dui iss. Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis libero. Nulla interdum erat nec tincidunt laoreet. In ac consequat risus. Donec a lectus mauris. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In maximus volutpat vehicula. </p>
-                                <div class="btn-wrapper margin-top-40">
-                                    <a href="#" class="btn btn-element btn-normal-size btn-main-color btn-rounded mr-5">Read More</a>
-                                </div>
+                                <h3 class="padding-top-3">مرحبًا بكم في نادي مس بلاتينوم الصحي!</h3>
+                                <p>
+                                    نحن فخورون اليوم بكوننا أحد أرقى الأندية الصحية النسائية في الكويت ، حيث تم تجهيز
+                                    النادي بأحدث المعدات الرياضية الأمريكية الشهيرة (Lifefitness) لضمان سلامة المشتركات.
+                                    يتميز النادي بتخصيص صالات خاصة للتمرين بالأوزان الحرة و أجهزة اللياقة بالإضافة إلى
+                                    غرف تغيير فاخرة وواسعة مع ساونا وحمام ، مما يجعلها ملاذًا صحيًا متكاملًا لجميع
+                                    السيدات الراغبات في ممارسة اللياقة البدنية.
+                                </p>
+
+                                <p>
+                                    يحتوي النادي على عدة استوديوهات لممارسة حصص التدريب الجماعي منها اليوغا ، الرقص
+                                    الشرقي ، الملاكمة ، دراجات السرعة ، المسبح ، الأيروبيك والاسكواش) و غيرها من الصالات
+                                    كصالة لرفع الأثقال ، نادي للأطفال ، ساونا وغرفة بخار ، مقهى ، متجر متخصص لبيع
+                                    المكملات الغذائية ، ممشى خارجي ، مواقف خاصة ، و حتى صالون وسبا.
+                                </p>
+
+                                <p>
+                                    نحن مجهزون بالكامل بأحدث وأعلى مستوى من الأجهزة الرياضية لتلبية الأهداف الخاصة بك ،
+                                    و بإشراف مدربات ذوي شهادات معتمدة ويتم إستخدام تقنيات التدريب الإبداعية والمبتكرة ،
+                                    كما نقدم أيضا أفضل ما توصلت إليه خبراتنا في مجال اللياقة البدنية.
+                                </p>
+
+                                <p>
+                                    تقدم مس بلاتينوم مجموعة من التدريبات مثل Zumba، التدريبات المائية، دراجات السرعة و
+                                    الملاكمة، فمهما كان ما تبحث عنه، ستجده هنا!
+                                </p>
+
+                                <p>
+                                    نقدم أيضًا باقات تدريبية مخصصة مثل دروس التمرين الخاصة والنظام الغذائي المخصص وخطط
+                                    التمرين بالإضافة إلى برنامج معتمد للقياسات InBody.
+                                </p>
+
+                                <p>
+                                    اصنع طريقك إلى باقاتنا وقائمة أسعارنا وتعال وانضم إلى عائلتنا!
+                                </p>
+
+                                <p dir="ltr">
+                                    #Iam_missplatinum
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -212,7 +250,8 @@
                                     </div>
                                     <div class="sb-content">
                                         <h4 class="title">Strength equipment</h4>
-                                        <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                        <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                            dignissim arcu, vitae convallis</p>
                                     </div>
                                 </div>
                             </div>
@@ -223,7 +262,8 @@
                                     </div>
                                     <div class="sb-content">
                                         <h4 class="title">Gym equipment</h4>
-                                        <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                        <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                            dignissim arcu, vitae convallis</p>
                                     </div>
                                 </div>
                             </div>
@@ -238,7 +278,8 @@
                                     </div>
                                     <div class="sb-content">
                                         <h4 class="title">Health equipment</h4>
-                                        <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                        <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                            dignissim arcu, vitae convallis</p>
                                     </div>
                                 </div>
                             </div>
@@ -249,7 +290,8 @@
                                     </div>
                                     <div class="sb-content">
                                         <h4 class="title">Weight equipment</h4>
-                                        <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                        <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                            dignissim arcu, vitae convallis</p>
                                     </div>
                                 </div>
                             </div>
@@ -265,7 +307,8 @@
                                     </div>
                                     <div class="sb-content">
                                         <h4 class="title">Energy equipment</h4>
-                                        <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                        <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                            dignissim arcu, vitae convallis</p>
                                     </div>
                                 </div>
                             </div>
@@ -276,7 +319,8 @@
                                     </div>
                                     <div class="sb-content">
                                         <h4 class="title">Fitness equipment</h4>
-                                        <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                        <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                            dignissim arcu, vitae convallis</p>
                                     </div>
                                 </div>
                             </div>
@@ -447,16 +491,20 @@
             <form>
                 <div class="row schedule-bottom schedule-bg-1">
                     <div class="col-lg-12 col-xl-8">
-                        <div class="d-flex justify-content-lg-around flex-column flex-lg-row align-items-center text-center">
+                        <div
+                            class="d-flex justify-content-lg-around flex-column flex-lg-row align-items-center text-center">
                             <div class="form-field margin-top-10 margin-bottom-10">
                                 <!--Date Picker-->
-                                <input type="text" id="datepicker-modal" placeholder="10/19/2019" class="datepicker-here datepick" data-language='en' data-date-format="dd/mm/yyyy">
+                                <input type="text" id="datepicker-modal" placeholder="10/19/2019"
+                                       class="datepicker-here datepick" data-language='en'
+                                       data-date-format="dd/mm/yyyy">
                             </div>
                             <div class="form-field margin-top-10 margin-bottom-10">
-                                <input type="text" name="timepicker" class="timepicker resto_timepicker" />
+                                <input type="text" name="timepicker" class="timepicker resto_timepicker"/>
                             </div>
                             <div class="btn-wrapper margin-top-10 margin-bottom-10">
-                                <a href="#" class="btn btn-element btn-normal-size btn-main-color btn-rounded">Find Class → </a>
+                                <a href="#" class="btn btn-element btn-normal-size btn-main-color btn-rounded">Find
+                                    Class → </a>
                             </div>
                         </div>
                     </div>
@@ -592,7 +640,8 @@
                         <p>Team challenge</p>
                         <h1>Partner up - <br>Double Power</h1>
                         <div class="btn-wrapper">
-                            <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Choose Your Partner</a>
+                            <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Choose
+                                Your Partner</a>
                         </div>
                     </div>
                 </div>
@@ -628,9 +677,11 @@
                             <div class="content">
                                 <h3>Dorothy D. Nabors</h3>
                                 <h6>Fitness Trainer</h6>
-                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                    dignissim arcu, vitae convallis</p>
                                 <div class="btn-wrapper">
-                                    <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
+                                    <a href="#"
+                                       class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
                                 </div>
                                 <ul class="social">
                                     <li class="icon-list">
@@ -639,12 +690,14 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/"
+                                           target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank"
+                                           class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -667,9 +720,11 @@
                             <div class="content">
                                 <h3>Surunjit kumar</h3>
                                 <h6>Health Trainer</h6>
-                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                    dignissim arcu, vitae convallis</p>
                                 <div class="btn-wrapper">
-                                    <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
+                                    <a href="#"
+                                       class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
                                 </div>
                                 <ul class="social">
                                     <li class="icon-list">
@@ -678,12 +733,14 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/"
+                                           target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank"
+                                           class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -708,9 +765,11 @@
                             <div class="content">
                                 <h3>Mushfiqur Rahman</h3>
                                 <h6>Body Trainer</h6>
-                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                    dignissim arcu, vitae convallis</p>
                                 <div class="btn-wrapper">
-                                    <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
+                                    <a href="#"
+                                       class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
                                 </div>
                                 <ul class="social">
                                     <li class="icon-list">
@@ -719,12 +778,14 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/"
+                                           target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank"
+                                           class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -747,9 +808,11 @@
                             <div class="content">
                                 <h3>Janice Mcreaken</h3>
                                 <h6>Message Trainer</h6>
-                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                    dignissim arcu, vitae convallis</p>
                                 <div class="btn-wrapper">
-                                    <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
+                                    <a href="#"
+                                       class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
                                 </div>
                                 <ul class="social">
                                     <li class="icon-list">
@@ -758,12 +821,14 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/"
+                                           target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank"
+                                           class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -788,9 +853,11 @@
                             <div class="content">
                                 <h3>Dorothy D. Nabors</h3>
                                 <h6>Yoga Trainer</h6>
-                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                    dignissim arcu, vitae convallis</p>
                                 <div class="btn-wrapper">
-                                    <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
+                                    <a href="#"
+                                       class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
                                 </div>
                                 <ul class="social">
                                     <li class="icon-list">
@@ -799,12 +866,14 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/"
+                                           target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank"
+                                           class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -827,9 +896,11 @@
                             <div class="content">
                                 <h3>Dorothy D. Nabors</h3>
                                 <h6>Gym Trainer</h6>
-                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                    dignissim arcu, vitae convallis</p>
                                 <div class="btn-wrapper">
-                                    <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
+                                    <a href="#"
+                                       class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
                                 </div>
                                 <ul class="social">
                                     <li class="icon-list">
@@ -838,12 +909,14 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/"
+                                           target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank"
+                                           class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -868,9 +941,11 @@
                             <div class="content">
                                 <h3>Dorothy D. Nabors</h3>
                                 <h6>Weight Trainer</h6>
-                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                    dignissim arcu, vitae convallis</p>
                                 <div class="btn-wrapper">
-                                    <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
+                                    <a href="#"
+                                       class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
                                 </div>
                                 <ul class="social">
                                     <li class="icon-list">
@@ -879,12 +954,14 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/"
+                                           target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank"
+                                           class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -906,9 +983,11 @@
                         <div class="col-md-7 d-flex align-items-center">
                             <div class="content">
                                 <h3>Dorothy D. Nabors</h3>
-                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                                <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum
+                                    dignissim arcu, vitae convallis</p>
                                 <div class="btn-wrapper">
-                                    <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
+                                    <a href="#"
+                                       class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Details</a>
                                 </div>
                                 <ul class="social">
                                     <li class="icon-list">
@@ -917,12 +996,14 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/"
+                                           target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank"
+                                           class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -971,7 +1052,8 @@
                             <li>Unlimited Tires</li>
                         </ul>
                         <div class="btn-wrapper desktop-center">
-                            <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Select Plan</a>
+                            <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Select
+                                Plan</a>
                         </div>
                     </div>
                 </div>
@@ -993,7 +1075,8 @@
                             <li>Unlimited Tires</li>
                         </ul>
                         <div class="btn-wrapper desktop-center">
-                            <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Select Plan</a>
+                            <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Select
+                                Plan</a>
                         </div>
                     </div>
                 </div>
@@ -1015,7 +1098,8 @@
                             <li>Unlimited Tires</li>
                         </ul>
                         <div class="btn-wrapper desktop-center">
-                            <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Select Plan</a>
+                            <a href="#" class="btn btn-element btn-normal-size btn-transparent-color btn-rounded">Select
+                                Plan</a>
                         </div>
                     </div>
                 </div>
@@ -1255,10 +1339,14 @@
                         </div>
                         <div class="content">
                             <div class="blog-meta">
-                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o" aria-hidden="true"></i> By Rasel</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 9 comments</a></h6>
+                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o"
+                                                                                          aria-hidden="true"></i> By
+                                        Rasel</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 9
+                                        comments</a></h6>
                             </div>
                             <h3>Cable Pulley gym</h3>
-                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim
+                                arcu, vitae convallis</p>
                         </div>
                         <div class="hover-content">
                             <span class="border-bottom">20 Dec</span><br>
@@ -1271,10 +1359,14 @@
                         </div>
                         <div class="content">
                             <div class="blog-meta">
-                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o" aria-hidden="true"></i> By Nasir</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 7 comments</a></h6>
+                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o"
+                                                                                          aria-hidden="true"></i> By
+                                        Nasir</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 7
+                                        comments</a></h6>
                             </div>
                             <h3><a href="blog-details.html">Just like a stability</a></h3>
-                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim
+                                arcu, vitae convallis</p>
                         </div>
                         <div class="hover-content">
                             <span class="border-bottom">25 Dec</span><br>
@@ -1287,10 +1379,14 @@
                         </div>
                         <div class="content">
                             <div class="blog-meta">
-                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o" aria-hidden="true"></i> By Fuad</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 4 comments</a></h6>
+                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o"
+                                                                                          aria-hidden="true"></i> By
+                                        Fuad</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 4
+                                        comments</a></h6>
                             </div>
                             <h3><a href="blog-details.html">Nulla tempus, augue</a></h3>
-                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim
+                                arcu, vitae convallis</p>
                         </div>
                         <div class="hover-content">
                             <span class="border-bottom">24 Jun</span><br>
@@ -1303,10 +1399,14 @@
                         </div>
                         <div class="content">
                             <div class="blog-meta">
-                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o" aria-hidden="true"></i> By Robin</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 8 comments</a></h6>
+                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o"
+                                                                                          aria-hidden="true"></i> By
+                                        Robin</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 8
+                                        comments</a></h6>
                             </div>
                             <h3><a href="blog-details.html">Train different parts</a></h3>
-                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim
+                                arcu, vitae convallis</p>
                         </div>
                         <div class="hover-content">
                             <span class="border-bottom">14 Jan</span><br>
@@ -1319,10 +1419,14 @@
                         </div>
                         <div class="content">
                             <div class="blog-meta">
-                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o" aria-hidden="true"></i> By Asad</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 9 comments</a></h6>
+                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o"
+                                                                                          aria-hidden="true"></i> By
+                                        Asad</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 9
+                                        comments</a></h6>
                             </div>
                             <h3><a href="blog-details.html">World wide occasion</a></h3>
-                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim
+                                arcu, vitae convallis</p>
                         </div>
                         <div class="hover-content">
                             <span class="border-bottom">10 Jan</span><br>
@@ -1335,10 +1439,14 @@
                         </div>
                         <div class="content">
                             <div class="blog-meta">
-                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o" aria-hidden="true"></i> By Naeem</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 7 comments</a></h6>
+                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o"
+                                                                                          aria-hidden="true"></i> By
+                                        Naeem</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 7
+                                        comments</a></h6>
                             </div>
                             <h3><a href="blog-details.html">Easy solution here</a></h3>
-                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim
+                                arcu, vitae convallis</p>
                         </div>
                         <div class="hover-content">
                             <span class="border-bottom">09 Aug</span><br>
@@ -1351,10 +1459,14 @@
                         </div>
                         <div class="content">
                             <div class="blog-meta">
-                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o" aria-hidden="true"></i> By Admin</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 3 comments</a></h6>
+                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o"
+                                                                                          aria-hidden="true"></i> By
+                                        Admin</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 3
+                                        comments</a></h6>
                             </div>
                             <h3><a href="blog-details.html">Doing something new</a></h3>
-                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim
+                                arcu, vitae convallis</p>
                         </div>
                         <div class="hover-content">
                             <span class="border-bottom">03 May</span><br>
@@ -1367,10 +1479,14 @@
                         </div>
                         <div class="content">
                             <div class="blog-meta">
-                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o" aria-hidden="true"></i> By John</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 6 comments</a></h6>
+                                <h6 class="d-flex justify-content-between"><a href="#"><i class="fa fa-user-o"
+                                                                                          aria-hidden="true"></i> By
+                                        John</a><a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 6
+                                        comments</a></h6>
                             </div>
                             <h3><a href="blog-details.html">Gym fair 2019</a></h3>
-                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae convallis</p>
+                            <p>Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim
+                                arcu, vitae convallis</p>
                         </div>
                         <div class="hover-content">
                             <span class="border-bottom">12 Jul</span><br>
@@ -1402,7 +1518,8 @@
                 </div>
                 <div class="content">
                     <h1>Arpita paul</h1>
-                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae libero. Nulla interdum erat nec tincidunt"</p>
+                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu,
+                        vitae libero. Nulla interdum erat nec tincidunt"</p>
                 </div>
             </div>
             <div class="item quote-style-1">
@@ -1411,7 +1528,8 @@
                 </div>
                 <div class="content">
                     <h1>Susmita sen</h1>
-                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae libero. Nulla interdum erat nec tincidunt"</p>
+                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu,
+                        vitae libero. Nulla interdum erat nec tincidunt"</p>
                 </div>
             </div>
             <div class="item quote-style-1">
@@ -1420,7 +1538,8 @@
                 </div>
                 <div class="content">
                     <h1>Dipa talukdar</h1>
-                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae libero. Nulla interdum erat nec tincidunt"</p>
+                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu,
+                        vitae libero. Nulla interdum erat nec tincidunt"</p>
                 </div>
             </div>
             <div class="item quote-style-1">
@@ -1429,7 +1548,8 @@
                 </div>
                 <div class="content">
                     <h1>Jimmy H. Hines</h1>
-                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae libero. Nulla interdum erat nec tincidunt"</p>
+                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu,
+                        vitae libero. Nulla interdum erat nec tincidunt"</p>
                 </div>
             </div>
             <div class="item quote-style-1">
@@ -1438,7 +1558,8 @@
                 </div>
                 <div class="content">
                     <h1>Sharifur Rahman</h1>
-                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae libero. Nulla interdum erat nec tincidunt"</p>
+                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu,
+                        vitae libero. Nulla interdum erat nec tincidunt"</p>
                 </div>
             </div>
             <div class="item quote-style-1">
@@ -1447,7 +1568,8 @@
                 </div>
                 <div class="content">
                     <h1>Azharul Naeem</h1>
-                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae libero. Nulla interdum erat nec tincidunt"</p>
+                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu,
+                        vitae libero. Nulla interdum erat nec tincidunt"</p>
                 </div>
             </div>
             <div class="item quote-style-1">
@@ -1456,7 +1578,8 @@
                 </div>
                 <div class="content">
                     <h1>Asaduzzaman</h1>
-                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu, vitae libero. Nulla interdum erat nec tincidunt"</p>
+                    <p>"Praesent a diam at velit finibus vehicula sit amet eu dui. Vestibulum rutrum dignissim arcu,
+                        vitae libero. Nulla interdum erat nec tincidunt"</p>
                 </div>
             </div>
         </div>

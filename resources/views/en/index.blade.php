@@ -93,12 +93,12 @@
                 </a>
             </li>
             <li class="icon-list">
-                <a href="https://www.facebook.com/codingeek.net/" target="_blank" class="icon-text">
+                <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/" target="_blank" class="icon-text">
                     <i class="fa fa-facebook-f"></i>
                 </a>
             </li>
             <li class="icon-list">
-                <a href="https://www.instagram.com/codingeeknet/%20" target="_blank" class="icon-text">
+                <a href="https://www.instagram.com/missplatinumkw/" target="_blank" class="icon-text">
                     <i class="fa fa-instagram"></i>
                 </a>
             </li>
@@ -218,6 +218,9 @@
                                     Make your way to our prove list and packages and come join our family!
                                 </p>
 
+                                <p dir="ltr">
+                                    #Iam_missplatinum
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -691,12 +694,12 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/" target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank" class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -732,12 +735,12 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/" target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank" class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -775,12 +778,12 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/" target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank" class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -816,12 +819,12 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/" target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank" class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -859,12 +862,12 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/" target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank" class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -900,12 +903,12 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/" target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank" class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -943,12 +946,12 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/" target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank" class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -983,12 +986,12 @@
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Miss-Platinum-998615896964320/" target="_blank" class="icon-text">
                                             <i class="fa fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li class="icon-list">
-                                        <a href="#" class="icon-text">
+                                        <a href="https://www.instagram.com/missplatinumkw/" target="_blank" class="icon-text">
                                             <i class="fa fa-instagram"></i>
                                         </a>
                                     </li>
