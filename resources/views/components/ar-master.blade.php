@@ -79,7 +79,7 @@
                     <li><a href="{{ route('classes', ['locale' => 'en']) }}">Classes</a></li>
                     <li><a href="{{ route('eventNews', ['locale' => 'en']) }}">Event & News</a></li>
                     <li><a href="{{ route('beMember', ['locale' => 'en']) }}">Be a Member</a></li>
-                    <li><a href="{{ route('contact', ['locale' => 'en']) }}">Contact Us</a></li>
+                    <li><a href="{{ route('contact', ['locale' => 'en']) }}">إتصل بنا</a></li>
                 </ul>
             </div>
         </div>
