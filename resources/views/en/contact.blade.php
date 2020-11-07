@@ -53,7 +53,7 @@
                 <div class="col-lg-12">
                     <div class="mapouter">
                         <div class="gmap_canvas">
-                            <iframe width="100%" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=university%20of%20san%20francisco&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                            <iframe width="100%" height="500" id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13922.563150286602!2d48.0851024!3d29.2635096!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa1eb3e25c0af647c!2sMiss%20Platinum%20Health%20Club!5e0!3m2!1sen!2skw!4v1604780698705!5m2!1sen!2skw" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                             <a href="https://www.embedgooglemap.net/blog/elementor-pro-discount-code-review/">elementor review</a>
                         </div>
                     </div>
@@ -66,7 +66,12 @@
                             <i class="flaticon-placeholder"></i>
                         </div>
                         <h3 class="cb-title">Office Address</h3>
-                        <span>12/A, Pro Street City, Newyork <br> United States</span>
+                        <span>
+                            Miss Platinum, <br>
+                            Sabah Al Salem, Block-1, <br>
+                            Opposite Al Jamera Beach Hotel <br>
+                            Free parking available
+                        </span>
                         <h5> <a href="#">Get In Here</a></h5>
                     </div>
                 </div>
@@ -76,7 +81,7 @@
                             <i class="flaticon-search"></i>
                         </div>
                         <h3 class="cb-title">Email</h3>
-                        <span>information@zarxio.com <br> www.zarxio.com</span>
+                        <span>missplatinum@alnawadiolding.com <br> www.missplatinum.com</span>
                         <h5> <a href="#">Get In Here</a></h5>
                     </div>
                 </div>
@@ -86,7 +91,7 @@
                             <i class="flaticon-phone-call"></i>
                         </div>
                         <h3 class="cb-title">Phone</h3>
-                        <span>+880 01318 55 66 00 <br>+880 123 123 123</span>
+                        <span>+965 2292 2570</span>
                         <h5> <a href="#">Get In Here</a></h5>
                     </div>
                 </div>
