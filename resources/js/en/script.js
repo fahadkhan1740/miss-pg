@@ -1,4 +1,4 @@
-;
+let $ = jQuery = require('jquery');
 (function($) {
     "use strict";
 
@@ -59,7 +59,7 @@
         }
 
         /*-----------------------------
-                    twentytwenty 
+                    twentytwenty
         ------------------------------*/
 
 
@@ -740,7 +740,7 @@
         })
 
         /*-------------------------------
-            Portfolio filter 
+            Portfolio filter
         ---------------------------------*/
         var $Container = $('.portfolio-masonry');
         if ($Container.length > 0) {

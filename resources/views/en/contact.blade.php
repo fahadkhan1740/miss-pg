@@ -1,11 +1,11 @@
 <x-en-master>
     <!-- breadcrumb area -->
-    <div class="breadcrumb-style-1 contact-breadcrumb-overlay" style="background-image:url(/assets/build/img/bg/contact.png);">
+    <div class="breadcrumb-style-1 contact-breadcrumb-overlay" style="background-image:url(/img/bg/contact.png);">
         <div class="breadcrumb-inner">
             <h1 class="page-title">Contact Us</h1>
             <ul class="page-list">
-                <li><a href="/">Home</a></li>
-                <li><a href="/en/contact">Contact Us</a></li>
+                <li><a href="{{ route('home') }}">Home</a></li>
+                <li><a href="{{ route('contact', ['locale' => app()->getLocale()]) }}">Contact Us</a></li>
             </ul>
         </div>
     </div>
@@ -102,34 +102,34 @@
                 <div class="col-lg-12">
                     <div class="brand-slider">
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand1.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand1.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand2.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand2.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand3.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand3.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand4.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand4.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand5.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand5.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand1.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand1.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand2.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand2.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand3.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand3.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand4.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand4.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand5.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand5.png') }}" alt="brand">
                         </div>
                     </div>
                 </div>

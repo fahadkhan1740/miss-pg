@@ -1,11 +1,11 @@
 <x-en-master>
     <!-- breadcrumb area -->
-    <div class="breadcrumb-style-1 classes-breadcrumb-overlay" style="background-image:url(/assets/build/img/bg/classes.png);">
+    <div class="breadcrumb-style-1 classes-breadcrumb-overlay" style="background-image:url(/img/bg/classes.png);">
         <div class="breadcrumb-inner">
             <h1 class="page-title">Classes</h1>
             <ul class="page-list margin-bottom-2">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="#">Classes</a></li>
+                <li><a href="{{ route('home') }}">Home</a></li>
+                <li><a href="{{ route('classes') }}">Classes</a></li>
             </ul>
         </div>
     </div>
@@ -19,7 +19,7 @@
                     <div class="single-class-item">
                         <div class="top-content">
                             <div class="content-img">
-                                <img src="/assets/build/img/classes/1.png" alt="shopping">
+                                <img src="{{ asset('img/classes/1.png') }}" alt="shopping">
                             </div>
                             <div class="hover-content">
                                 <div class="btn-wrapper desktop-center">
@@ -39,7 +39,7 @@
                     <div class="single-class-item">
                         <div class="top-content">
                             <div class="content-img">
-                                <img src="/assets/build/img/classes/2.png" alt="shopping">
+                                <img src="{{ asset('img/classes/2.png') }}" alt="shopping">
                             </div>
                             <div class="hover-content">
                                 <div class="btn-wrapper desktop-center">
@@ -59,7 +59,7 @@
                     <div class="single-class-item">
                         <div class="top-content">
                             <div class="content-img">
-                                <img src="/assets/build/img/classes/3.png" alt="shopping">
+                                <img src="{{ asset('img/classes/3.png') }}" alt="shopping">
                             </div>
                             <div class="hover-content">
                                 <div class="btn-wrapper desktop-center">
@@ -79,7 +79,7 @@
                     <div class="single-class-item">
                         <div class="top-content">
                             <div class="content-img">
-                                <img src="/assets/build/img/classes/4.png" alt="shopping">
+                                <img src="{{ asset('img/classes/4.png') }}" alt="shopping">
                             </div>
                             <div class="hover-content">
                                 <div class="btn-wrapper desktop-center">
@@ -99,7 +99,7 @@
                     <div class="single-class-item">
                         <div class="top-content">
                             <div class="content-img">
-                                <img src="/assets/build/img/classes/5.png" alt="shopping">
+                                <img src="{{ asset('img/classes/5.png') }}" alt="shopping">
                             </div>
                             <div class="hover-content">
                                 <div class="btn-wrapper desktop-center">
@@ -119,7 +119,7 @@
                     <div class="single-class-item">
                         <div class="top-content">
                             <div class="content-img">
-                                <img src="/assets/build/img/classes/6.png" alt="shopping">
+                                <img src="{{ asset('img/classes/6.png') }}" alt="shopping">
                             </div>
                             <div class="hover-content">
                                 <div class="btn-wrapper desktop-center">
@@ -139,7 +139,7 @@
                     <div class="single-class-item">
                         <div class="top-content">
                             <div class="content-img">
-                                <img src="/assets/build/img/classes/7.png" alt="shopping">
+                                <img src="{{ asset('img/classes/7.png') }}" alt="shopping">
                             </div>
                             <div class="hover-content">
                                 <div class="btn-wrapper desktop-center">
@@ -159,7 +159,7 @@
                     <div class="single-class-item">
                         <div class="top-content">
                             <div class="content-img">
-                                <img src="/assets/build/img/classes/8.png" alt="shopping">
+                                <img src="{{ asset('img/classes/8.png') }}" alt="shopping">
                             </div>
                             <div class="hover-content">
                                 <div class="btn-wrapper desktop-center">
@@ -179,7 +179,7 @@
                     <div class="single-class-item">
                         <div class="top-content">
                             <div class="content-img">
-                                <img src="/assets/build/img/classes/9.png" alt="shopping">
+                                <img src="{{ asset('img/classes/9.png') }}" alt="shopping">
                             </div>
                             <div class="hover-content">
                                 <div class="btn-wrapper desktop-center">
@@ -262,7 +262,7 @@
         <div class="owl-carousel owl-theme">
             <div class="item quote-style-1">
                 <div class="thumb">
-                    <img src="/assets/build/img/home/client/1.png" alt="client">
+                    <img src="{{ asset('img/home/client/1.png') }}" alt="client">
                 </div>
                 <div class="content">
                     <h1>Charif Barrani</h1>
@@ -272,7 +272,7 @@
             </div>
             <div class="item quote-style-1">
                 <div class="thumb">
-                    <img src="/assets/build/img/home/client/3.png" alt="client">
+                    <img src="{{ asset('img/home/client/3.png') }}" alt="client">
                 </div>
                 <div class="content">
                     <h1>Sharifur Robin</h1>
@@ -282,7 +282,7 @@
             </div>
             <div class="item quote-style-1">
                 <div class="thumb">
-                    <img src="/assets/build/img/home/client/4.png" alt="client">
+                    <img src="{{ asset('img/home/client/4.png') }}" alt="client">
                 </div>
                 <div class="content">
                     <h1>MD Asaduzzaman</h1>
@@ -292,7 +292,7 @@
             </div>
             <div class="item quote-style-1">
                 <div class="thumb">
-                    <img src="/assets/build/img/home/client/2.png" alt="client">
+                    <img src="{{ asset('img/home/client/2.png') }}" alt="client">
                 </div>
                 <div class="content">
                     <h1>Robiul Islam</h1>
@@ -302,7 +302,7 @@
             </div>
             <div class="item quote-style-1">
                 <div class="thumb">
-                    <img src="/assets/build/img/home/client/4.png" alt="client">
+                    <img src="{{ asset('img/home/client/4.png') }}" alt="client">
                 </div>
                 <div class="content">
                     <h1>Azharul Islam</h1>
@@ -312,7 +312,7 @@
             </div>
             <div class="item quote-style-1">
                 <div class="thumb">
-                    <img src="/assets/build/img/home/client/1.png" alt="client">
+                    <img src="{{ asset('img/home/client/1.png') }}" alt="client">
                 </div>
                 <div class="content">
                     <h1>Salim Sarker</h1>
@@ -322,7 +322,7 @@
             </div>
             <div class="item quote-style-1">
                 <div class="thumb">
-                    <img src="/assets/build/img/home/client/3.png" alt="client">
+                    <img src="{{ asset('img/home/client/3.png') }}" alt="client">
                 </div>
                 <div class="content">
                     <h1>Subrata Das</h1>
@@ -341,34 +341,34 @@
                 <div class="col-lg-12">
                     <div class="brand-slider">
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand1.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand1.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand2.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand2.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand3.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand3.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand4.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand4.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand5.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand5.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand1.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand1.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand2.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand2.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand3.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand3.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand4.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand4.png') }}" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="/assets/build/img/brand/brand5.png" alt="brand">
+                            <img src="{{ asset('img/brand/brand5.png') }}" alt="brand">
                         </div>
                     </div>
                 </div>

@@ -153,6 +153,11 @@
 </div>
 <!-- back to top area end -->
 
+<script src="{{ asset('js/jquery-2.2.4.min.js') }}"></script>
+<!-- jquery.twentytwenty -->
+<script src="{{ asset('js/jquery.twentytwenty.js') }}"></script>
+<script src="{{ asset('js/jquery.event.move.js') }}"></script>
+
 <script src="{{ mix('en/js/all.js') }}"></script>
 <script src="{{ mix('en/js/script.js') }}"></script>
 </body>
