@@ -33,3 +33,5 @@ mix.js('resources/js/en/script.js', 'public/en/js')
         'resources/css/en/twentytwenty.css',
         'resources/css/en/wickedpicker.min.css',
     ], 'public/en/css/app.css');
+
+mix.copyDirectory('resources/img', 'public/img');

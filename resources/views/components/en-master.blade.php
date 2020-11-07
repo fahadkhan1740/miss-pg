@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Miss Platinum</title>
     <!-- favicon -->
-    <link rel=icon href=/assets/build/img/favicon.png sizes="20x20" type="image/png">
+    <link rel=icon href="{{ asset('img/favicon.png') }}" sizes="20x20" type="image/png">
 
     <link rel="stylesheet" href="{{ mix('en/css/app.css') }}">
     <link rel="stylesheet" href="{{ mix('en/css/style.css') }}">
@@ -39,7 +39,7 @@
                 </button>
             </div>
             <div class="logo">
-                <a href="index.html"> <img src="/assets/build/img/logo.png" alt="logo"></a>
+                <a href="index.html"> <img src="{{ asset('img/logo.png') }}" alt="logo"></a>
             </div>
             <div class="collapse navbar-collapse" id="billatrail_main_menu">
                 <ul class="navbar-nav menu-open">
@@ -65,7 +65,7 @@
                 <div class="col-lg-4 col-xl-4 col-md-6">
                     <div class="footer-widget widget">
                         <a href="index.html" class="footer-logo">
-                            <img src="/assets/build/img/footer-logo.png" alt="footer logo">
+                            <img src="{{ asset('img/footer-logo.png') }}" alt="footer logo">
                         </a>
                         <ul class="contact_info_list">
                             <li class="single-info-item">
@@ -101,7 +101,7 @@
                         <ul class="recent_post_item">
                             <li class="single-recent-post-item">
                                 <div class="thumb">
-                                    <img src="/assets/build/img/post/1.png" alt="">
+                                    <img src="{{ asset('img/post/1.png') }}" alt="">
                                 </div>
                                 <div class="content">
                                     <p class="title">New gym center</p>
@@ -110,7 +110,7 @@
                             </li>
                             <li class="single-recent-post-item">
                                 <div class="thumb">
-                                    <img src="/assets/build/img/post/2.png" alt="">
+                                    <img src="{{ asset('img/post/2.png') }}" alt="">
                                 </div>
                                 <div class="content">
                                     <p class="title">Improve fitness</p>
