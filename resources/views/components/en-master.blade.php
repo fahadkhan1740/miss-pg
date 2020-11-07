@@ -153,45 +153,7 @@
 </div>
 <!-- back to top area end -->
 
-<!-- jquery -->
-<script src="/assets/build/js/jquery-2.2.4.min.js"></script>
-<!-- popper -->
-<script src="/assets/build/js/popper.min.js"></script>
-<!-- bootstrap -->
-<script src="/assets/build/js/bootstrap.min.js"></script>
-<!-- magnific popup -->
-<script src="/assets/build/js/jquery.magnific-popup.js"></script>
-<!-- wow -->
-<script src="/assets/build/js/wow.min.js"></script>
-<!-- nice select -->
-<script src="/assets/build/js/nice-select.js"></script>
-<!-- owl carousel -->
-<script src="/assets/build/js/owl.carousel.min.js"></script>
-<!-- Slick -->
-<script src="/assets/build/js/slick.min.js"></script>
-<!-- Slick Animation -->
-<script src="/assets/build/js/slick-animation.js"></script>
-<!-- jquery.twentytwenty -->
-<script src="/assets/build/js/jquery.twentytwenty.js"></script>
-<script src="/assets/build/js/jquery.event.move.js"></script>
-<!-- waypoint -->
-<script src="/assets/build/js/waypoints.min.js"></script>
-<!-- Date Picker -->
-<script src="/assets/build/js/datepicker.min.js"></script>
-<script src="/assets/build/js/datepicker.en.js"></script>
-<!-- Time Picker -->
-<script src="/assets/build/js/wickedpicker.min.js"></script>
-<!-- counterup -->
-<script src="/assets/build/js/jquery.counterup.min.js"></script>
-<!-- imageloaded -->
-<script src="/assets/build/js/imagesloaded.pkgd.min.js"></script>
-<!-- isotope -->
-<script src="/assets/build/js/isotope.pkgd.min.js"></script>
-<!-- rProgressbar -->
-<script src="/assets/build/js/jQuery.rProgressbar.min.js"></script>
-<script src="/assets/build/js/timepicker.js"></script>
-<!-- main js -->
-<script src="/assets/build/js/main.js"></script>
-{{--<script src="{{ mix('js/script.js', 'assets/build') }}"></script>--}}
+<script src="{{ mix('en/js/all.js') }}"></script>
+<script src="{{ mix('en/js/script.js') }}"></script>
 </body>
 </html>
