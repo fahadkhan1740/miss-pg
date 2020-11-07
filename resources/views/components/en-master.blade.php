@@ -8,39 +8,9 @@
     <title>Miss Platinum</title>
     <!-- favicon -->
     <link rel=icon href=/assets/build/img/favicon.png sizes="20x20" type="image/png">
-    <!-- animate -->
-    <link rel="stylesheet" href="/assets/build/css/animate.css">
-    <!-- bootstrap -->
-    <link rel="stylesheet" href="/assets/build/css/bootstrap.min.css">
-    <!-- magnific popup -->
-    <link rel="stylesheet" href="/assets/build/css/magnific-popup.css">
-    <!-- Slick -->
-    <link rel="stylesheet" href="/assets/build/css/slick.css"/>
-    <link rel="stylesheet" href="/assets/build/css/slick-theme.css"/>
-    <!-- nice select -->
-    <link rel="stylesheet" href="/assets/build/css/nice-select.css">
-    <!-- owl carousel -->
-    <link rel="stylesheet" href="/assets/build/css/owl.carousel.min.css">
-    <!-- fontawesome -->
-    <link rel="stylesheet" href="/assets/build/css/font-awesome.min.css">
-    <!-- flaticon -->
-    <link rel="stylesheet" href="/assets/build/css/flaticon.css">
-    <!-- hamburgers -->
-    <link rel="stylesheet" href="/assets/build/css/hamburgers.min.css">
-    <!-- hamburgers -->
-    <link rel="stylesheet" href="/assets/build/css/hamburgers.min.css">
-    <!-- twentytwenty -->
-    <link rel="stylesheet" href="/assets/build/css/twentytwenty.css">
-    <!-- Date Picker -->
-    <link href="/assets/build/css/datepicker.min.css" rel="stylesheet" type="text/css">
-    <!-- Time Picker -->
-    <link rel="stylesheet" href="/assets/build/css/wickedpicker.min.css">
-    <!-- Main Stylesheet -->
-    <link rel="stylesheet" href="/assets/build/css/style.css">
-    <!-- responsive Stylesheet -->
-    <link rel="stylesheet" href="/assets/build/css/responsive.css">
 
-{{--    <link rel="stylesheet" href="{{ mix('css/style.css', 'assets/build') }}">--}}
+    <link rel="stylesheet" href="{{ mix('en/css/app.css') }}">
+    <link rel="stylesheet" href="{{ mix('en/css/style.css') }}">
 </head>
 <body>
 
@@ -73,12 +43,12 @@
             </div>
             <div class="collapse navbar-collapse" id="billatrail_main_menu">
                 <ul class="navbar-nav menu-open">
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/en/about">About</a></li>
-                    <li><a href="/en/classes">Classes</a></li>
-                    <li><a href="/en/event-news">Event & News</a></li>
-                    <li><a href="/en/be-a-member">Be a Member</a></li>
-                    <li><a href="/en/contact">Contact Us</a></li>
+                    <li><a href="{{ route('home') }}">Home</a></li>
+                    <li><a href="{{ route('about', ['locale' => 'en']) }}">About</a></li>
+                    <li><a href="{{ route('classes', ['locale' => 'en']) }}">Classes</a></li>
+                    <li><a href="{{ route('eventNews', ['locale' => 'en']) }}">Event & News</a></li>
+                    <li><a href="{{ route('beMember', ['locale' => 'en']) }}">Be a Member</a></li>
+                    <li><a href="{{ route('contact', ['locale' => 'en']) }}">Contact Us</a></li>
                 </ul>
             </div>
         </div>

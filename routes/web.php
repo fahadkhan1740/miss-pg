@@ -15,10 +15,10 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::middleware('set.locale')->group(static function () {
-    Route::get('/', [StaticViewsController::class, 'index']);
-    Route::get('about-us', [StaticViewsController::class, 'about']);
-    Route::get('classes', [StaticViewsController::class, 'classes']);
-    Route::get('events-and-news', [StaticViewsController::class, 'eventNews']);
-    Route::get('be-a-member', [StaticViewsController::class, 'beMember']);
-    Route::get('contact-us', [StaticViewsController::class, 'contact']);
+    Route::get('/', [StaticViewsController::class, 'index'])->name('home');
+    Route::get('about-us', [StaticViewsController::class, 'about'])->name('about');
+    Route::get('classes', [StaticViewsController::class, 'classes'])->name('classes');
+    Route::get('events-and-news', [StaticViewsController::class, 'eventNews'])->name('eventNews');
+    Route::get('be-a-member', [StaticViewsController::class, 'beMember'])->name('beMember');
+    Route::get('contact-us', [StaticViewsController::class, 'contact'])->name('contact');
 });

@@ -9,7 +9,7 @@
                     <h3>Page not found !</h3>
                     <p>Sorry, we couldn't find the content you were looking for.</p>
                     <div class="btn-wrapper margin-top-65">
-                        <a href="index.html">← Back to home</a>
+                        <a href="{{ route('home') }}">← Back to home</a>
                     </div>
                 </div>
             </div>

@@ -8,7 +8,7 @@ class StaticViewsController extends Controller
 {
     public function index()
     {
-        return view('welcome');
+        return view(app()->getLocale().'.index');
     }
 
     public function about()
